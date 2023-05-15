@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace FinalProjectMVC.Controllers
 {
+    
     [Authorize]
     public class AddressesController : Controller
     {
